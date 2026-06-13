@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Pre-computed data (large files)
+precomputed/
+*.npy
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset (not committed)
+dataset/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
+# Submission output
+submission.csv
+
+# Test scripts
+test_pipeline.py

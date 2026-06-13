@@ -1,0 +1,81 @@
+# Redrob Hackathon — Submission Metadata
+# Copy of submission_metadata_template.yaml filled in for our team.
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "redrob-ai-ranker"
+
+primary_contact:
+  name: "Raj Barot"
+  email: "rajbarot@example.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Raj Barot"
+    email: "rajbarot@example.com"
+    role: "ML Engineer"
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/YOUR_USERNAME/redrob-ai-ranker"
+
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Windows 11"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.14"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 20
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Gemini"
+  - "Claude"
+
+ai_usage_summary: |
+  Used Gemini for architecture discussion, code scaffolding, and code review.
+  Used Claude for debugging and refactoring suggestions.
+  All ranking logic, scoring weights, and evaluation methodology were
+  engineered through manual analysis of the dataset and JD.
+  No candidate data was fed to any hosted LLM during ranking.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  Hybrid 3-stage ranking pipeline. Stage 1: rule-based coarse filter
+  eliminates honeypots (10 detection rules) and obvious non-fits (non-tech
+  titles, services-only careers). Stage 2: sentence-transformer embeddings
+  (all-MiniLM-L6-v2, pre-computed) provide semantic similarity between
+  candidate profiles and JD. Stage 3: 10-dimensional weighted composite
+  score combining semantic similarity, title alignment, career quality,
+  skills match (with anti-keyword-stuffer penalty), experience band,
+  location, availability, engagement, profile trust, and market signals.
+  Title and career scores act as multiplicative gates to prevent
+  keyword-stuffed profiles from ranking high. Behavioral signals
+  down-weight inactive/unresponsive candidates. Runtime: ~2 minutes
+  for 100K candidates on CPU with 16GB RAM.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
