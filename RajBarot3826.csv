@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,0.9199,"Senior Machine Learning Engineer with 7.2 yrs experience at Zomato; strong AI/ML skill set (Deep Learning, Weaviate, Recommendation Systems, Pinecone, Information Retrieval); currently Senior Machine Learning Engineer at Zomato; located in preferred hiring region; highly responsive (61% recruiter..."
+CAND_0002025,2,0.8974,"Senior AI Engineer with 5.9 yrs experience at Apple; strong AI/ML skill set (FAISS, TensorFlow, OpenSearch, Weaviate, Sentence Transformers); currently Senior AI Engineer at Apple; in India; highly responsive (80% recruiter response rate); 30-day notice period."
+CAND_0077337,3,0.8965,"Staff Machine Learning Engineer with 7.0 yrs experience at Paytm; strong AI/ML skill set (Semantic Search, QLoRA, pgvector, Pinecone, Feature Engineering); currently Staff Machine Learning Engineer at Paytm; in India, willing to relocate; highly responsive (95% recruiter response rate)."
+CAND_0037566,4,0.8955,"Machine Learning Engineer with 6.9 yrs experience at LinkedIn; strong AI/ML skill set (Pinecone, LlamaIndex, NLP, LoRA, QLoRA); currently Machine Learning Engineer at LinkedIn; in India, willing to relocate; highly responsive (50% recruiter response rate); 15-day notice period."
+CAND_0081846,5,0.8944,"Lead AI Engineer with 6.7 yrs experience at Razorpay; strong AI/ML skill set (Data Science, Information Retrieval, LlamaIndex, pgvector, Elasticsearch); currently Lead AI Engineer at Razorpay; in India, willing to relocate; highly responsive (73% recruiter response rate); 30-day notice period."
+CAND_0046525,6,0.8935,"Senior Machine Learning Engineer with 6.1 yrs experience at Genpact AI; strong AI/ML skill set (Elasticsearch, LangChain, Machine Learning, LlamaIndex, Information Retrieval); currently Senior Machine Learning Engineer at Genpact AI; located in preferred hiring region; highly responsive (88% recr..."
+CAND_0050454,7,0.8925,"AI Engineer with 6.8 yrs experience at Rephrase.ai; strong AI/ML skill set (PyTorch, LangChain, QLoRA, Fine-tuning LLMs, FAISS); currently AI Engineer at Rephrase.ai; located in preferred hiring region; highly responsive (77% recruiter response rate); 30-day notice period."
+CAND_0069905,8,0.8895,"Applied ML Engineer with 6.6 yrs experience at Sarvam AI; strong AI/ML skill set (LoRA, Recommendation Systems, Sentence Transformers, LangChain, TensorFlow); currently Applied ML Engineer at Sarvam AI; in India, willing to relocate; highly responsive (78% recruiter response rate)."
+CAND_0088025,9,0.8894,"Staff Machine Learning Engineer with 8.6 yrs experience at Yellow.ai; strong AI/ML skill set (Pinecone, QLoRA, LLMs, Hugging Face Transformers, RAG); currently Staff Machine Learning Engineer at Yellow.ai; in India; highly responsive (83% recruiter response rate)."
+CAND_0011687,10,0.8879,"Senior NLP Engineer with 7.8 yrs experience at Niramai; strong AI/ML skill set (TensorFlow, OpenSearch, FAISS, PEFT, Feature Engineering); currently Senior NLP Engineer at Niramai; in India; highly responsive (89% recruiter response rate); 15-day notice period."
+CAND_0005538,11,0.8813,"Senior AI Engineer with 5.9 yrs experience at Adobe; relevant skills: Vector Representations, Deep Learning, Feature Engineering, QLoRA; in India; responsive (81% response rate)."
+CAND_0079387,12,0.8813,"AI Engineer with 6.9 yrs experience at Microsoft; relevant skills: Recommendation Systems, Python, Sentence Transformers, Vector Search; in India; responsive (81% response rate)."
+CAND_0061257,13,0.8812,"Staff Machine Learning Engineer with 8.0 yrs experience at LinkedIn; relevant skills: PEFT, Machine Learning, Information Retrieval Systems, Feature Engineering; located in preferred hiring region; responsive (87% response rate)."
+CAND_0064326,14,0.8809,"Search Engineer with 7.6 yrs experience at Sarvam AI; relevant skills: PyTorch, Milvus, Deep Learning, Semantic Search; located in preferred hiring region; responsive (94% response rate)."
+CAND_0020877,15,0.8788,"Applied ML Engineer with 5.1 yrs experience at CRED; relevant skills: QLoRA, Elasticsearch, PyTorch, OpenSearch; located in preferred hiring region; responsive (66% response rate)."
+CAND_0037980,16,0.8779,"Senior Applied Scientist with 9.0 yrs experience at Niramai; relevant skills: LoRA, PyTorch, NLP, QLoRA; in India, willing to relocate; responsive (63% response rate)."
+CAND_0080766,17,0.8764,"Staff Machine Learning Engineer with 8.8 yrs experience at Salesforce; relevant skills: LoRA, MLOps, MLflow, Open-source ML libraries; in India, willing to relocate; responsive (66% response rate)."
+CAND_0005260,18,0.8746,"Senior NLP Engineer with 5.2 yrs experience at Netflix; relevant skills: MLOps, Information Retrieval, Semantic Search, Deep Learning; in India, willing to relocate; responsive (86% response rate)."
+CAND_0008425,19,0.8721,"Senior NLP Engineer with 7.8 yrs experience at Ola; relevant skills: Qdrant, pgvector, Sentence Transformers, NLP; in India; responsive (66% response rate)."
+CAND_0039754,20,0.8721,"Senior Applied Scientist with 16.2 yrs experience at Meta; relevant skills: Fine-tuning LLMs, LlamaIndex, Qdrant, NLP; in India, willing to relocate; responsive (81% response rate)."
+CAND_0006567,21,0.8717,"Senior AI Engineer with 7.9 yrs experience at Meta; relevant skills: Vector Representations, NLP, Kubernetes, Python; located in preferred hiring region; responsive (79% response rate)."
+CAND_0071974,22,0.8714,"Senior AI Engineer with 7.8 yrs experience at Netflix; relevant skills: LoRA, Weaviate, PEFT, Pinecone; in India; responsive (76% response rate)."
+CAND_0081053,23,0.8703,"NLP Engineer with 5.4 yrs experience at Glance; relevant skills: LoRA, QLoRA, Qdrant, Machine Learning; in India, willing to relocate; responsive (83% response rate)."
+CAND_0083879,24,0.8693,"Machine Learning Engineer with 7.1 yrs experience at Ola; relevant skills: MLOps, Fine-tuning LLMs, Milvus, Data Science; located in preferred hiring region; responsive (47% response rate)."
+CAND_0006418,25,0.8685,"Machine Learning Engineer with 5.7 yrs experience at Verloop.io; relevant skills: Kubernetes, Semantic Search, Embeddings, TensorFlow; located in preferred hiring region; responsive (92% response rate)."
+CAND_0046064,26,0.8684,"Senior NLP Engineer with 8.9 yrs experience at Salesforce; relevant skills: Python, Pinecone, OpenSearch, PEFT; in India; responsive (78% response rate)."
+CAND_0062247,27,0.8680,"AI Engineer with 7.3 yrs experience at Google; relevant skills: Pinecone, Vector Search, Qdrant, RAG; in India, willing to relocate; responsive (78% response rate)."
+CAND_0068811,28,0.8679,"Applied ML Engineer with 8.0 yrs experience at Freshworks; relevant skills: Data Science, Vector Search, Qdrant, TensorFlow; located in preferred hiring region; responsive (42% response rate)."
+CAND_0070398,29,0.8672,"Machine Learning Engineer with 7.2 yrs experience at Genpact AI; relevant skills: Data Science, RAG, FAISS, Embeddings; in India, willing to relocate; responsive (60% response rate)."
+CAND_0098846,30,0.8669,"AI Engineer with 7.6 yrs experience at upGrad; relevant skills: Hugging Face Transformers, PEFT, QLoRA, Machine Learning; in India, willing to relocate; responsive (62% response rate)."
+CAND_0045250,31,0.8665,Applied ML Engineer with 6.6 yrs experience at Rephrase.ai; has 8 relevant skills.
+CAND_0027691,32,0.8660,NLP Engineer with 6.5 yrs experience at Haptik; has 8 relevant skills.
+CAND_0055905,33,0.8660,Senior Machine Learning Engineer with 8.1 yrs experience at Flipkart; has 8 relevant skills.
+CAND_0074735,34,0.8625,Applied ML Engineer with 5.5 yrs experience at Rephrase.ai; has 8 relevant skills.
+CAND_0075249,35,0.8621,Applied ML Engineer with 6.2 yrs experience at Zomato; has 6 relevant skills.
+CAND_0005649,36,0.8610,Senior Data Scientist with 7.4 yrs experience at Sarvam AI; has 8 relevant skills.
+CAND_0065195,37,0.8609,Search Engineer with 5.1 yrs experience at CRED; has 8 relevant skills.
+CAND_0075574,38,0.8606,Machine Learning Engineer with 5.7 yrs experience at Haptik; has 8 relevant skills.
+CAND_0015578,39,0.8601,AI Engineer with 5.4 yrs experience at Zoho; has 8 relevant skills.
+CAND_0039383,40,0.8601,Applied ML Engineer with 7.1 yrs experience at Meesho; has 8 relevant skills.
+CAND_0049538,41,0.8600,Applied ML Engineer with 5.8 yrs experience at Saarthi.ai; has 8 relevant skills.
+CAND_0086022,42,0.8599,Senior Applied Scientist with 5.3 yrs experience at Sarvam AI; has 8 relevant skills.
+CAND_0028793,43,0.8598,Search Engineer with 7.2 yrs experience at Google; has 8 relevant skills.
+CAND_0094759,44,0.8584,Lead AI Engineer with 8.6 yrs experience at Meta; has 8 relevant skills; low responsiveness (11%).
+CAND_0068351,45,0.8576,Lead AI Engineer with 6.4 yrs experience at Sarvam AI; has 8 relevant skills.
+CAND_0042029,46,0.8574,Senior Data Scientist with 6.5 yrs experience at Flipkart; has 8 relevant skills.
+CAND_0093193,47,0.8573,Senior Machine Learning Engineer with 7.9 yrs experience at Niramai; has 8 relevant skills.
+CAND_0091909,48,0.8570,Machine Learning Engineer with 6.9 yrs experience at Rephrase.ai; has 8 relevant skills.
+CAND_0058575,49,0.8569,AI Engineer with 5.8 yrs experience at Krutrim; has 8 relevant skills.
+CAND_0030031,50,0.8568,AI Engineer with 5.7 yrs experience at Microsoft; has 8 relevant skills.
+CAND_0016163,51,0.8562,Applied ML Engineer with 6.7 yrs experience at Dream11; has 8 relevant skills.
+CAND_0070202,52,0.8557,Machine Learning Engineer with 5.1 yrs experience at BYJU'S; has 8 relevant skills.
+CAND_0078002,53,0.8557,Machine Learning Engineer with 6.3 yrs experience at Meta; has 8 relevant skills.
+CAND_0042506,54,0.8553,Search Engineer with 4.2 yrs experience at Verloop.io; has 8 relevant skills.
+CAND_0057563,55,0.8550,NLP Engineer with 6.8 yrs experience at Locobuzz; has 8 relevant skills.
+CAND_0079064,56,0.8548,Senior Data Scientist with 5.2 yrs experience at Niramai; has 8 relevant skills.
+CAND_0084819,57,0.8546,Search Engineer with 4.5 yrs experience at Dream11; has 8 relevant skills.
+CAND_0052682,58,0.8542,NLP Engineer with 6.6 yrs experience at Aganitha; has 8 relevant skills.
+CAND_0007411,59,0.8539,Senior Machine Learning Engineer with 8.0 yrs experience at Amazon; has 8 relevant skills; low responsiveness (12%).
+CAND_0054123,60,0.8539,Applied ML Engineer with 4.7 yrs experience at Meta; has 8 relevant skills.
+CAND_0044855,61,0.8531,"Senior Data Scientist with 6.6 yrs experience at Flipkart; some relevant skills (Hugging Face Transformers, OpenSearch, BentoML)."
+CAND_0007460,62,0.8526,"AI Engineer with 4.7 yrs experience at Salesforce; some relevant skills (LangChain, PEFT, Embeddings)."
+CAND_0096142,63,0.8525,"Applied ML Engineer with 5.0 yrs experience at upGrad; some relevant skills (LoRA, Weaviate, Pinecone)."
+CAND_0009691,64,0.8523,"Applied ML Engineer with 6.2 yrs experience at LinkedIn; some relevant skills (BentoML, Recommendation Systems, Fine-tuning LLMs)."
+CAND_0007412,65,0.8516,"Applied ML Engineer with 7.4 yrs experience at Zoho; some relevant skills (Data Science, Pinecone, Milvus)."
+CAND_0042100,66,0.8514,"Machine Learning Engineer with 7.3 yrs experience at Freshworks; some relevant skills (Elasticsearch, Recommendation Systems, Semantic Search)."
+CAND_0044222,67,0.8506,"AI Engineer with 7.7 yrs experience at PolicyBazaar; some relevant skills (Vector Search, LlamaIndex, OpenSearch)."
+CAND_0031593,68,0.8500,"Search Engineer with 7.8 yrs experience at Genpact AI; some relevant skills (Hugging Face Transformers, BentoML, Recommendation Systems)."
+CAND_0050876,69,0.8494,"Applied ML Engineer with 6.0 yrs experience at Freshworks; some relevant skills (Qdrant, MLOps, FAISS)."
+CAND_0081852,70,0.8478,"Senior Data Scientist with 5.9 yrs experience at Mad Street Den; some relevant skills (Semantic Search, Milvus, BentoML)."
+CAND_0010257,71,0.8473,"Senior Data Scientist with 6.5 yrs experience at Google; some relevant skills (Milvus, TensorFlow, MLflow)."
+CAND_0066376,72,0.8473,"Applied ML Engineer with 5.7 yrs experience at Dream11; some relevant skills (Recommendation Systems, LoRA, LLMs)."
+CAND_0030468,73,0.8465,"Senior Applied Scientist with 5.4 yrs experience at Swiggy; some relevant skills (Information Retrieval Systems, TensorFlow, Machine Learning)."
+CAND_0083307,74,0.8457,"Search Engineer with 7.8 yrs experience at CRED; some relevant skills (Embeddings, QLoRA, PEFT)."
+CAND_0020708,75,0.8452,"Search Engineer with 4.2 yrs experience at PolicyBazaar; some relevant skills (NLP, Data Science, Python)."
+CAND_0006557,76,0.8441,"NLP Engineer with 7.9 yrs experience at Paytm; some relevant skills (Data Science, Elasticsearch, OpenSearch)."
+CAND_0051292,77,0.8441,"Applied ML Engineer with 5.2 yrs experience at Freshworks; some relevant skills (pgvector, FAISS, BentoML)."
+CAND_0064270,78,0.8440,"Applied ML Engineer with 4.2 yrs experience at Verloop.io; some relevant skills (LlamaIndex, BentoML, PyTorch)."
+CAND_0087630,79,0.8439,"AI Engineer with 7.2 yrs experience at Vedantu; some relevant skills (Data Science, Elasticsearch, pgvector)."
+CAND_0012957,80,0.8435,"Search Engineer with 4.9 yrs experience at Razorpay; some relevant skills (RAG, PEFT, LangChain)."
+CAND_0060054,81,0.8433,"AI Engineer with 6.4 yrs experience at Mad Street Den; some relevant skills (TensorFlow, Weaviate, FAISS)."
+CAND_0064904,82,0.8427,"AI Engineer with 4.9 yrs experience at LinkedIn; some relevant skills (Embeddings, Hugging Face Transformers, Elasticsearch)."
+CAND_0076251,83,0.8427,"Search Engineer with 7.6 yrs experience at Haptik; some relevant skills (Fine-tuning LLMs, Hugging Face Transformers, Weaviate)."
+CAND_0027801,84,0.8423,"NLP Engineer with 7.4 yrs experience at InMobi; some relevant skills (FAISS, Milvus, QLoRA)."
+CAND_0040887,85,0.8420,"Machine Learning Engineer with 4.7 yrs experience at Netflix; some relevant skills (FAISS, MLflow, LoRA)."
+CAND_0041610,86,0.8417,"Recommendation Systems Engineer with 6.7 yrs experience at Zoho; some relevant skills (LoRA, Data Science, Elasticsearch)."
+CAND_0043228,87,0.8414,"Applied ML Engineer with 6.8 yrs experience at Zoho; some relevant skills (NLP, Hugging Face Transformers, Machine Learning)."
+CAND_0099806,88,0.8414,"AI Engineer with 4.6 yrs experience at Mad Street Den; some relevant skills (LoRA, RAG, pgvector)."
+CAND_0010685,89,0.8402,"NLP Engineer with 6.7 yrs experience at Rephrase.ai; some relevant skills (LlamaIndex, Deep Learning, PyTorch)."
+CAND_0092278,90,0.8401,"Senior NLP Engineer with 6.8 yrs experience at Microsoft; some relevant skills (TensorFlow, Machine Learning, Hugging Face Transformers); concerns: very low responsiveness."
+CAND_0076163,91,0.8393,"NLP Engineer with 6.9 yrs experience at Ola; some relevant skills (Weaviate, LangChain, Semantic Search)."
+CAND_0030348,92,0.8388,"Machine Learning Engineer with 4.5 yrs experience at BYJU'S; some relevant skills (LlamaIndex, Deep Learning, MLOps)."
+CAND_0089552,93,0.8388,"Machine Learning Engineer with 6.0 yrs experience at Netflix; some relevant skills (Weaviate, TensorFlow, Qdrant)."
+CAND_0008239,94,0.8380,"AI Engineer with 4.0 yrs experience at Apple; some relevant skills (Milvus, Feature Engineering, Semantic Search)."
+CAND_0074225,95,0.8378,"Machine Learning Engineer with 4.3 yrs experience at Unacademy; some relevant skills (Recommendation Systems, Semantic Search, Elasticsearch)."
+CAND_0009837,96,0.8372,"Senior Data Scientist with 4.3 yrs experience at Rephrase.ai; some relevant skills (LangChain, TensorFlow, PyTorch)."
+CAND_0029367,97,0.8370,"Senior Data Scientist with 5.7 yrs experience at Rephrase.ai; some relevant skills (BentoML, MLflow, TensorFlow)."
+CAND_0093912,98,0.8358,"Senior Data Scientist with 5.3 yrs experience at Razorpay; some relevant skills (Feature Engineering, Milvus, Embeddings)."
+CAND_0010149,99,0.8354,"ML Engineer with 6.9 yrs experience at Glance; some relevant skills (Milvus, Vector Search, PEFT)."
+CAND_0013613,100,0.8352,"Machine Learning Engineer with 4.7 yrs experience at Adobe; some relevant skills (LoRA, TensorFlow, Weaviate)."
